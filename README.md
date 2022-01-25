@@ -13,4 +13,4 @@
 
 ## :wrench: Setup
 
-#### 1. Just open the index.html file with your preferred browser.
+* Just open the index.html file with your preferred browser.
