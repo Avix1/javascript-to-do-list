@@ -1,2 +1,16 @@
-# javascript-to-do-list
-Javascript Basic Calculator Using Eval This is my project, just a simple calculator.  Tech Stack For this simple project i've just used basic Javascript, HTML and CSS. No libraries added.  Setup Open with your preffered browser in the index.html file.
+<h3 align="center">JavaScript To Do List</h3>
+<br>
+<p align="center">
+  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-Setup">Setup</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+## :rocket: Technologies
+
+- [Javascript](https://javascript.info)
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+## :wrench: Setup
+
+#### 1. Just open the index.html file with your preferred browser.
